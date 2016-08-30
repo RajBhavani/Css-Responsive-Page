@@ -1,0 +1,21 @@
+main{
+	padding: 10px;
+}
+main.row{
+	text-align: center;
+	padding-top: 30px;
+	height: 200px 
+}
+.orange{
+	background-color: orange;
+}
+.blue{
+	background-color: blue;
+}
+.red{
+	background-color: red;
+}
+.black{
+	background-color:black;
+	color:white; 
+}
